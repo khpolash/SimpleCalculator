@@ -1,0 +1,8 @@
+I:\VProgrem C#\AddTwoNumber\AddTwoNumber\bin\Debug\AddTwoNumber.exe
+I:\VProgrem C#\AddTwoNumber\AddTwoNumber\bin\Debug\AddTwoNumber.pdb
+I:\VProgrem C#\AddTwoNumber\AddTwoNumber\obj\Debug\ResolveAssemblyReference.cache
+I:\VProgrem C#\AddTwoNumber\AddTwoNumber\obj\Debug\AddTwoNumber.Form1.resources
+I:\VProgrem C#\AddTwoNumber\AddTwoNumber\obj\Debug\AddTwoNumber.Properties.Resources.resources
+I:\VProgrem C#\AddTwoNumber\AddTwoNumber\obj\Debug\AddTwoNumber.csproj.GenerateResource.Cache
+I:\VProgrem C#\AddTwoNumber\AddTwoNumber\obj\Debug\AddTwoNumber.exe
+I:\VProgrem C#\AddTwoNumber\AddTwoNumber\obj\Debug\AddTwoNumber.pdb

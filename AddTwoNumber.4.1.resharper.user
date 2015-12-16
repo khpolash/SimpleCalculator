@@ -1,0 +1,72 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="18047DC8-0EDA-47E7-88D8-2CCD0EA29CE4/f:Form1.cs" caret="127" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="18047DC8-0EDA-47E7-88D8-2CCD0EA29CE4/f:Form1.cs" caret="347" scrollPosition="0|6" />
+      <File id="18047DC8-0EDA-47E7-88D8-2CCD0EA29CE4/f:Form1.cs" caret="347" scrollPosition="0|6" />
+      <File id="18047DC8-0EDA-47E7-88D8-2CCD0EA29CE4/f:Form1.cs" caret="347" scrollPosition="0|9" />
+      <File id="18047DC8-0EDA-47E7-88D8-2CCD0EA29CE4/f:Form1.cs" caret="955" scrollPosition="0|6" />
+      <File id="18047DC8-0EDA-47E7-88D8-2CCD0EA29CE4/f:Form1.cs" caret="1542" scrollPosition="0|24" />
+      <File id="18047DC8-0EDA-47E7-88D8-2CCD0EA29CE4/f:Form1.cs" caret="2756" scrollPosition="0|72" />
+      <File id="18047DC8-0EDA-47E7-88D8-2CCD0EA29CE4/f:Form1.cs" caret="2979" scrollPosition="0|66" />
+      <File id="18047DC8-0EDA-47E7-88D8-2CCD0EA29CE4/f:Form1.cs" caret="2149" scrollPosition="0|61" />
+      <File id="18047DC8-0EDA-47E7-88D8-2CCD0EA29CE4/f:Form1.cs" caret="465" scrollPosition="0|4" />
+      <File id="18047DC8-0EDA-47E7-88D8-2CCD0EA29CE4/f:Form1.cs" caret="713" scrollPosition="0|4" />
+      <File id="18047DC8-0EDA-47E7-88D8-2CCD0EA29CE4/f:Form1.cs" caret="1118" scrollPosition="0|25" />
+      <File id="18047DC8-0EDA-47E7-88D8-2CCD0EA29CE4/f:Form1.cs" caret="1320" scrollPosition="0|25" />
+      <File id="18047DC8-0EDA-47E7-88D8-2CCD0EA29CE4/f:Form1.cs" caret="1725" scrollPosition="0|43" />
+      <File id="18047DC8-0EDA-47E7-88D8-2CCD0EA29CE4/f:Form1.cs" caret="1927" scrollPosition="0|43" />
+      <File id="18047DC8-0EDA-47E7-88D8-2CCD0EA29CE4/f:Form1.cs" caret="2332" scrollPosition="0|64" />
+      <File id="18047DC8-0EDA-47E7-88D8-2CCD0EA29CE4/f:Form1.cs" caret="2534" scrollPosition="0|64" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="String" priority="1" />
+      <Item value="first" priority="3" />
+      <Item value="firstTextBox" priority="2" />
+      <Item value="second" priority="2" />
+      <Item value="secondTextBox" priority="2" />
+      <Item value="if" priority="1" />
+      <Item value="int" priority="2" />
+      <Item value="out" priority="2" />
+      <Item value="answerLabel" priority="1" />
+      <Item value="float" priority="13" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="TryParse" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="TabIndex" priority="0" />
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
